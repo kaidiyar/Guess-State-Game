@@ -1,9 +1,9 @@
 # Guess-State-Game
 
 Guess-Stat-Game is a simple and beginner friendly game written in Python.
--Used different Python modules(libraries), such as pandas and turtle to create a game
--Implemmented the function that creates new CSV file of states, which should be repeated to get highest possible score
--DRY principle is used to make code more clear and understandable for developers.
+- Used different Python modules(libraries), such as pandas and turtle to create a game
+- Implemmented the function that creates new CSV file of states, which should be repeated to get highest possible score
+- DRY principle is used to make code more clear and understandable for developers.
 
 ---
 
